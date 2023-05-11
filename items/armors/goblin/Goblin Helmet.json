@@ -1,0 +1,15 @@
+{
+    "name": "Goblin Helmet",
+    "displayName": "§2Goblin Helmet",
+    "type": "IRON_HELMET",
+    "rarity": "COMMON",
+    "stats": {
+      "Defense": 2
+    },
+    "unbreakable": false,
+    "damage": 0,
+    "flags": [
+      "HIDE_ATTRIBUTES",
+      "HIDE_UNBREAKABLE"
+    ]
+  }

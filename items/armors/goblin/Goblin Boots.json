@@ -1,0 +1,15 @@
+{
+    "name": "Goblin Boots",
+    "displayName": "§2Goblin Boots",
+    "type": "IRON_BOOTS",
+    "rarity": "COMMON",
+    "stats": {
+      "Defense": 2
+    },
+    "unbreakable": false,
+    "damage": 0,
+    "flags": [
+      "HIDE_ATTRIBUTES",
+      "HIDE_UNBREAKABLE"
+    ]
+  }

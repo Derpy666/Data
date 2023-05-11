@@ -1,0 +1,15 @@
+{
+    "name": "Goblin Chestplate",
+    "displayName": "§2Goblin Chestplate",
+    "type": "IRON_CHESTPLATE",
+    "rarity": "COMMON",
+    "stats": {
+      "Defense": 2
+    },
+    "unbreakable": false,
+    "damage": 0,
+    "flags": [
+      "HIDE_ATTRIBUTES",
+      "HIDE_UNBREAKABLE"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "Goblin Leggings",
+    "displayName": "§2Goblin Leggings",
+    "type": "IRON_LEGGINGS",
+    "rarity": "COMMON",
+    "stats": {
+      "Defense": 2
+    },
+    "unbreakable": false,
+    "damage": 0,
+    "flags": [
+      "HIDE_ATTRIBUTES",
+      "HIDE_UNBREAKABLE"
+    ]
+  }
